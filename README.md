@@ -6,10 +6,13 @@
 __bold__
 ~~gitflow~~
 
-**i am checking bold and _italic_ text***
+**i am checking bold and _italic_ text**
+***All italic and bold***
 `in the end by linkin park`
-```i tried so hard and got so far 
+```
+i tried so hard and got so far 
 but in the end it doesn't even matter
 all i know
 so unreal
-```watch and go
+watch and go
+```
